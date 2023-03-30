@@ -1,4 +1,4 @@
-import { IEndpoints, IUrls } from '../types/types';
+import { IEndpoints, IUrls } from '../interfaces';
 
 const endpoints: IEndpoints = {
     discover: 'discover',
